@@ -39,7 +39,7 @@ The work was carried out as part of my Master's program in Bioinformatics.
 ## 📧 Contact
 👤 **Mohsin Nazir Bhat**  
 📍 University of Bologna, Italy  
-✉️ [bhatjones@example.com](mailto:your.email@example.com)  
+✉️ (mailto:bhatjones@gmail.com)  
 🔗[GitHub](https://github.com/Mohsin32525)
 
 
