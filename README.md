@@ -15,8 +15,7 @@ The work was carried out as part of my Master's program in Bioinformatics.
 ## 📝 Files
 - **report/report.pdf** → Full project report
 - **article/article.pdf** → Article submitted/prepared
-- **code/** → Scripts and analysis pipeline (if any)
-- **data/** → Example datasets (if public)
+
 
 ---
 
@@ -34,6 +33,13 @@ The work was carried out as part of my Master's program in Bioinformatics.
 
 ---
 
-## 📜 Citation
-If you use or refer to this work, please cite as:
+
+---
+
+## 📧 Contact
+👤 **Mohsin Nazir Bhat**  
+📍 University of Bologna, Italy  
+✉️ [bhatjones@example.com](mailto:your.email@example.com)  
+🔗[GitHub](https://github.com/Mohsin32525)
+
 
